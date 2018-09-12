@@ -1,3 +1,7 @@
+*name: David Beach
+*hobby: Programming
+*something interesting about me: I like maps and map making
+
 Mustafa Al Asadi
 
 Hobbies: Soccer, Cycling, Video Games.

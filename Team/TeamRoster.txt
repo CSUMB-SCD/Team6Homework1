@@ -3,5 +3,9 @@
 *hobby: Programming
 *something interesting about me: I like maps
 
+*name: Remberto Nunez
+*hobbies: Video Games, Aeromodelling, and Soccer
+*something interesting about me: I like planes
+
 
 
